@@ -1,0 +1,5 @@
+# Ignora tutto il contenuto della cartella dataset
+dataset/
+
+# Non ignorare i file nascosti
+!dataset/.gitkeep
